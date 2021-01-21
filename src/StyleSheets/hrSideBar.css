@@ -1,0 +1,28 @@
+.sideBar {
+  width: 9vw;
+  background: #4a86e8;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+}
+.iconsStyling {
+  position: relative;
+  width: 50%;
+  height: 50%;
+  margin-left: 2vw;
+}
+.sideBarFontStyle {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.2vw;
+  margin-left: 1.7vw;
+}
+.imageAndFontDiv{
+    cursor: pointer;
+    margin-top: 1vw;
+}
+
+
+

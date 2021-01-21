@@ -1,0 +1,26 @@
+.columnsStyling {
+  padding-left: 6vw;
+}
+.IconStyling {
+  position: relative;
+  width: 10vw;
+  height: 10vw;
+  cursor: pointer;
+}
+.deleteIconStyling {
+  position: relative;
+  width: 7vw;
+  height: 9vw;
+  margin-bottom: 1vw;
+  cursor: pointer;
+}
+.locationFontsStyling {
+  margin-top: 1vw;
+  text-align: center;
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.2vw;
+  color: #4a86e8;
+  cursor: pointer;
+}

@@ -1,0 +1,124 @@
+.cardStyle1 {
+     
+    width: 100vw;
+    height: 7vw;
+    margin-right: 20vw;
+    margin-top: -1vw;
+    
+    
+    background-color: #092832  !important;
+  }
+  .cardStyle2 {
+     
+    width: 100vw;
+    height: 16vw;
+    
+    margin-top: 6.75vw;
+  
+    background-color:  #092832 !important;
+  }
+  
+  
+  .buttonStylelogin {
+    margin-top: 2vw;
+    margin-left: 20vw;
+    margin-bottom: 2vw;
+    font-size: 1.6vw;
+     
+    font-family: 'sans-serif';
+    font-style: normal;
+    font-weight: 500;
+    border: 2vw;
+    width: 12vw;
+     
+    padding: 0%;
+  }
+  
+  .labelStyleguc {
+    color: #ffffff;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3vw;
+    margin-top: 2vw;
+    margin-left: 20vw;
+    margin-bottom: 2vw;
+  }
+    
+  .labelStyleguc2 {
+    color: #ffffff;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 1vw;
+    margin-top: 2vw;
+    margin-left: 15vw;
+    margin-bottom: 2vw;
+  }
+ .Guclogostyle{
+
+     
+    width: 10vw;
+    height: 6vw;
+    
+    margin-left: 1vw;
+    margin-top: -40vw;
+
+
+}
+.logInCircle {
+    background-color: white;
+    width: 12vw;
+    height: 15vh;
+    box-shadow: -0.1vw 0.2vw black;
+    position: relative;
+    top: 3vh;
+    left: 6vw;
+  
+    border-radius: 50%;
+  }
+  .logInLogoImage {
+    position: relative;
+    top: 0.5vw;
+    left: 1.2vw;
+  }
+.Guclogostyle2{
+
+     
+    width: 3vw;
+    height: 3vw;
+    
+    margin-left: 18vw;
+    margin-top: 3vw;
+    margin-bottom: 20vw;
+
+
+}
+.labelStyleguccontactus{
+    color: #ffffff;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 1vw;
+    margin-top: 4vw;
+    margin-left: 15vw;
+    margin-bottom: 2vw;
+  }
+.labelStylegucconnectwithus{
+    color: #ffffff;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1vw;
+    margin-top: -30vw;
+    margin-left: 15vw;
+    margin-bottom: 10vw;
+  }
+ 
+ 
+ 
+ 
+  
+  
+  
+ 

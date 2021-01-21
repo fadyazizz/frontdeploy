@@ -1,0 +1,16 @@
+.signInFormStyle {
+  width: 90%;
+
+  padding: 0%;
+  display: block;
+  position: relative;
+
+  left: 1.2vw;
+  text-align: center;
+  font-size: 90%;
+}
+.DatePickerSignIn {
+  position: relative;
+  left: 35%;
+  background-color: white;
+}

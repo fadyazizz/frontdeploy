@@ -1,0 +1,26 @@
+.firstColumnField{
+    text-align: left;
+    font-family: 'Ubuntu Mono';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.5vw;
+    margin-bottom: 2vw;
+    text-decoration: underline;
+    padding-right: 2vw;
+    padding-bottom: 2vw;
+  
+}
+.secondColumnField{
+    text-align: left;
+    font-family: 'Ubuntu Mono';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.3vw;
+    margin-bottom: 2vw;
+    padding-bottom: 2vw;
+}
+.coloredImageStyling{
+    width: 3vw;
+    padding-bottom: 2vw;
+    padding-right: 1vw;
+}

@@ -1,0 +1,26 @@
+.ccsideBar {
+    width: 9vw;
+    background: #999999;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+  }
+  .cciconsStyling {
+    position: relative;
+    width: 50%;
+    height: 50%;
+    margin-left: 2vw;
+  }
+  .ccsideBarFontStyle {
+    font-family: 'Ubuntu Mono';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.2vw;
+    margin-left: 1.7vw;
+  }
+  .ccimageAndFontDiv {
+    cursor: pointer;
+    margin-top: 1vw;
+  }
+  

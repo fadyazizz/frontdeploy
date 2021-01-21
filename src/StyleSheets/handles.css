@@ -1,0 +1,20 @@
+.handlefont {
+    margin-top: 1vw;
+    text-align: center;
+    font-family: 'Ubuntu Mono';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.2vw;
+    color: black;
+    cursor: pointer;
+    /* margin-right: 5vw; */
+  }
+  .handleImage {
+    position: relative;
+    width: 15vw;
+    height: 15vw;
+    margin-bottom: 1.2vw;
+    margin-top: 0.7vw;
+    cursor: pointer;
+  }
+  

@@ -1,0 +1,26 @@
+.acsideBar {
+    width: 9vw;
+    background: #e08eb4;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+  }
+  .aciconsStyling {
+    position: relative;
+    width: 50%;
+    height: 50%;
+    margin-left: 2vw;
+  }
+  .acsideBarFontStyle {
+    font-family: 'Ubuntu Mono';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.2vw;
+    margin-left: 1.7vw;
+  }
+  .acimageAndFontDiv {
+    cursor: pointer;
+    margin-top: 1vw;
+  }
+  

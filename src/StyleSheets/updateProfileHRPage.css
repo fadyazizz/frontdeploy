@@ -1,0 +1,53 @@
+.staffColumnsStylingKs {
+  padding-left: 6vw;
+}
+
+.staffIconStyling {
+  position: relative;
+  width: 10vw;
+  height: 10vw;
+  margin-bottom: 1.2vw;
+  margin-top: 0.7vw;
+  cursor: pointer;
+}
+.staffFontsStylingKs {
+  margin-top: 1vw;
+  text-align: center;
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.2vw;
+  color: #4a86e8;
+  cursor: pointer;
+  margin-right: 7vw;
+}
+.staffFontsStylingK1s {
+  margin-top: 4vw;
+  text-align: center;
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.2vw;
+  color: #4a86e8;
+  cursor: pointer;
+  margin-right: 7vw;
+}
+
+.staffColumnsStylingK1s {
+  padding-left: 6vw;
+  margin-top: 0vw;
+}
+.staffColumnsStylingK2s {
+  padding-left: 3vw;
+}
+.staffFontsStylingK2ss {
+  margin-top: -2vw;
+  text-align: center;
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.2vw;
+  color: #4a86e8;
+  cursor: pointer;
+  margin-right: 0vw;
+}

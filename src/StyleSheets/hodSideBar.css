@@ -1,0 +1,25 @@
+.hodsideBar {
+  width: 9vw;
+  background: #ffcb08;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+}
+.hodiconsStyling {
+  position: relative;
+  width: 50%;
+  height: 50%;
+  margin-left: 2vw;
+}
+.hodsideBarFontStyle {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.2vw;
+  margin-left: 1.7vw;
+}
+.hodimageAndFontDiv {
+  cursor: pointer;
+  margin-top: 1vw;
+}

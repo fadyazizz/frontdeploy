@@ -1,0 +1,38 @@
+.requestsFormStyle {
+  width: 90%;
+
+  padding: 0%;
+  display: block;
+  position: relative;
+  margin-top: 10%;
+  left: 1.2vw;
+  text-align: center;
+  font-size: 80%;
+}
+.DatePickerRequests {
+  position: relative;
+  left: 20%;
+  background-color: white;
+  margin-top: 5%;
+  width: 40%;
+  font-size: 80%;
+  color: black;
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

@@ -1,0 +1,25 @@
+.cisideBar {
+  width: 9vw;
+  background: #41ab71;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+}
+.ciiconsStyling {
+  position: relative;
+  width: 50%;
+  height: 50%;
+  margin-left: 2vw;
+}
+.cisideBarFontStyle {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.2vw;
+  margin-left: 1.7vw;
+}
+.ciimageAndFontDiv {
+  cursor: pointer;
+  margin-top: 1vw;
+}

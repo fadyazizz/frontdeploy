@@ -1,0 +1,48 @@
+.ccCard {
+  border-radius: 0 !important;
+  width: 35vw;
+  height: 35vw;
+  margin-left: 30vw;
+  margin-top: -42vw;
+  padding: 0 0 0 0;
+  background-color: #999999;
+}
+.cccardTitleStyle {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 2vw;
+  margin-left: 9vw;
+  color: #ededfd;
+  font-weight: 600;
+}
+.ccLabelStyle {
+  color: #ededfd;
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.2vw;
+  margin-top: 0.6vw;
+  margin-left: 0.2vw;
+}
+.ccFormStyle {
+  border-radius: 0 !important;
+}
+.addButtonCcStyle {
+  margin-top: 3vw;
+  margin-left: 25vw;
+  border-radius: 0 !important;
+  font-family: 'Consolas';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.2vw;
+  color: grey;
+}
+.messagesStyling {
+  margin-left: 16vw;
+  font-family: 'Consolas';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 1vw;
+  color: rgb(247, 48, 48);
+}
